@@ -1,7 +1,7 @@
 .item {
     display: flex;
     justify-content: space-between;
-    border: 1px solid green;
+    border: 1px solid rgb(47, 15, 92);
     padding: 10px;
 
     p {
@@ -9,7 +9,7 @@
     }
 
     button {
-        background-color: green;
+        background-color: rgb(201, 37, 37);
         border: none;
         border-radius: 4px;
         padding: 5px;

@@ -15,7 +15,7 @@
         flex-direction: column;
         font-size: 20px;
         font-weight: 500;
-        color: green;
+        color: rgb(12, 12, 12);
         margin-bottom: 20px;
 
         input {
@@ -33,7 +33,7 @@
     }
 
     button {
-        background-color: green;
+        background-color: rgb(212, 67, 67);
         border: none;
         padding: 10px 20px;
         margin-top: 10px;
